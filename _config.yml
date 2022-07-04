@@ -85,10 +85,10 @@ author:
   bio              : "Neurosurgeron"
   location         : "Stanford Health Care"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=%28Huang%2C+Yuhao%5BAuthor+-+Full%5D+OR+Huang%2C+YU+HAO%5BAuthor+-+Full%5D%29+AND+%28Stanford%5BAffiliation%5D+OR+Alberta%5BAffiliation%5D%29"
+  googlescholar    : "https://scholar.google.com/citations?user=7T6TY5AAAAAJ&hl=en"
   email            :
-  researchgate     : "https://scholar.google.com/citations?user=7T6TY5AAAAAJ&hl=en"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/danny-yuhao-huang-61b87b69/"
+  linkedin         : "danny-yuhao-huang-61b87b69"
   orcid            : "https://orcid.org/0000-0003-4893-135X"
   pinterest        :
   soundcloud       :
