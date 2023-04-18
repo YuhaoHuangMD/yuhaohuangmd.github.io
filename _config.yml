@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuhao Huang"
+title                    : "Yuhao Huang - Danny"
 title_separator          : "-"
-name                     : &name "Yuhao Huang, MD"
-description              : &description "Neurosurgeon making sense of the brain"
+name                     : &name "Yuhao Huang (Danny), MD"
+description              : &description "Yuhao Huang (Danny) is a neurosurgeon-scientist who focuses on intracranial signal processing and neural electrophysiology. His clinical interests include psychiatric neurosurgery, epilepsy, movement disorders and intractable pain."
 url                      : https://yuhaohuangmd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuhaohuangmd/yuhaohuangmd.github.io"
