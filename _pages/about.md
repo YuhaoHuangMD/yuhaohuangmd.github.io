@@ -12,8 +12,6 @@ I am a resident and post-doctorate researcher in the <a href="https://dura.stanf
 
 
 <div class="row txt">
-  <div class="col-md-3 stitle">Research</div>
-
   <div class="col-md-7">
     <p>
       Intracranial Correlates of Food Reward and Metabolism
@@ -31,7 +29,6 @@ I am a resident and post-doctorate researcher in the <a href="https://dura.stanf
 	Parker JJ, Rolle C, Schivacharan RS, Barbosa DAN, Feng A, <b>Huang Y</b>, Kakusa B, Prieto T, Jaffe R, Williams N, Halpern CH.  <a href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(22)01598-0/fulltext">“Appetitive Mapping of the Human Nucleus Accumbens”</a>  <b> Biological Psychiatry</b> December 9, 2022.
         </li>
     </ul>
-</div></div>
 
 <br/>
 
@@ -47,7 +44,6 @@ I am a resident and post-doctorate researcher in the <a href="https://dura.stanf
 	Keller C*, <b>Huang Y*</b>, Herrero J, Fini M, Du V, Lado F, Honey C, Mehta A.  <a href="https://www.jneurosci.org/content/38/23/5384.short">“Induction and quantification of excitability changes in human cortical networks”</a>  <b> Journal of Neuroscience</b> June 6, 2018. <i>*Co-First Author</i>
         </li>
     </ul>
-</div></div>
 
 <br/>
 
@@ -75,4 +71,3 @@ I am a resident and post-doctorate researcher in the <a href="https://dura.stanf
 	Pan J, Jabarkheel R, <b>Huang Y</b>, Ho A, Chang S.  <a href="https://link.springer.com/article/10.1007/s11060-017-2697-0">“Stereotactic radiosurgery for central nervous system hemangioblastoma: systematic review and meta-analysis”</a>  <b> Journal of Neuro-Oncology</b> November 11, 2018.
         </li>
     </ul>
-</div></div>
