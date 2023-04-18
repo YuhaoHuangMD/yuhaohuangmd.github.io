@@ -11,8 +11,7 @@ redirect_from:
 I am a resident and post-doctorate researcher in the <a href="https://dura.stanford.edu/residents/yuhao-huang.html">Department of Neurosurgery</a> at Stanford University. As a physician-scientist with a focus on signal processing and neural electrophysiology, I work with multimodal datasets to understand how brain signals correlate with human behavior. I am interested in using computer vision and machine learning to parse neural correlates of behavior under naturalistic settings. Another area of interest involves building robust neuro-modulatory treatments for functional disorders and epilepsy. I received by BSc at University of Alberta and my MD at Stanford University. 
 
 
-<div class="row txt">
-  <div class="col-md-7">
+<div>
     <p>
       Intracranial Correlates of Food Reward and Metabolism
 	 <ul>
@@ -29,11 +28,11 @@ I am a resident and post-doctorate researcher in the <a href="https://dura.stanf
 	Parker JJ, Rolle C, Schivacharan RS, Barbosa DAN, Feng A, <b>Huang Y</b>, Kakusa B, Prieto T, Jaffe R, Williams N, Halpern CH.  <a href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(22)01598-0/fulltext">“Appetitive Mapping of the Human Nucleus Accumbens”</a>  <b> Biological Psychiatry</b> December 9, 2022.
         </li>
     </ul>
+</div>
 
 <br/>
 
-<div class="row txt">
-  <div class="col-md-7">
+<div>
     <p>
       Mechanism of Intracranial Neurostimulation
 	 <ul>
@@ -44,11 +43,12 @@ I am a resident and post-doctorate researcher in the <a href="https://dura.stanf
 	Keller C*, <b>Huang Y*</b>, Herrero J, Fini M, Du V, Lado F, Honey C, Mehta A.  <a href="https://www.jneurosci.org/content/38/23/5384.short">“Induction and quantification of excitability changes in human cortical networks”</a>  <b> Journal of Neuroscience</b> June 6, 2018. <i>*Co-First Author</i>
         </li>
     </ul>
+</div>
 
 <br/>
 
-<div class="row txt">
-  <div class="col-md-7">
+
+<div>
     <p>
       Outcomes in Neurosurgery
 	 <ul>
@@ -71,3 +71,4 @@ I am a resident and post-doctorate researcher in the <a href="https://dura.stanf
 	Pan J, Jabarkheel R, <b>Huang Y</b>, Ho A, Chang S.  <a href="https://link.springer.com/article/10.1007/s11060-017-2697-0">“Stereotactic radiosurgery for central nervous system hemangioblastoma: systematic review and meta-analysis”</a>  <b> Journal of Neuro-Oncology</b> November 11, 2018.
         </li>
     </ul>
+</div>
