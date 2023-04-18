@@ -12,7 +12,6 @@ I am a resident and post-doctorate researcher in the <a href="https://dura.stanf
 
 
 Intracranial Correlates of Food Reward and Metabolism
-* <b>Huang Y*</b>, Wang J*, Parker JJ, Schivacharan RS, Rayhan L, Halpern CH.  <a href="https://www.nature.com/ncomms">“Spectro-spatial features in distributed human intracranial activity proactively encode peripheral metabolic activity”</a>  <b> Nature Communications</b> April, 2023. <i>*Co-First Author</i>
 * <b>Huang Y</b>, Kakusa B, Feng A, Gattas S, Schivacharan RS, Lee EB, Parker JJ, Kuijper FM, Barbosa DAN, Keller CJ, Bohon C, Mikhail A, Halpern CH.  <a href="https://www.nature.com/articles/s41467-021-23885-4">“The insulo-opercular cortex encodes food-specific content under controlled and naturalistic conditions”</a>  <b> Nature Communications</b> June 6, 2021.
 * Kakusa B, <b>Huang Y</b>, Barbosa DAN, Feng A, Gattas S, Schivacharan RS, Lee EB, Kuijper FM, Saluja S, Parker JJ, Miller KJ, Keller CJ, Bohon C, Halpern CH.  <a href="https://www.sciencedirect.com/science/article/pii/S0969996121000978">“Anticipatory human subthalamic area beta-band power responses to dissociable tastes correlate with weight gain”</a>  <b> Neurobiology of Disease</b> July 1, 2021.
 * Parker JJ, Rolle C, Schivacharan RS, Barbosa DAN, Feng A, <b>Huang Y</b>, Kakusa B, Prieto T, Jaffe R, Williams N, Halpern CH.  <a href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(22)01598-0/fulltext">“Appetitive Mapping of the Human Nucleus Accumbens”</a>  <b> Biological Psychiatry</b> December 9, 2022.
